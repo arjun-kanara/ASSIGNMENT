@@ -1,0 +1,29 @@
+2)  How to Apply CSS Using JQuery, How to Add Class and Remove Class in Jquery , 
+    JQuery Animation?
+
+
+ 
+   In this article, we will learn to animate using jQuery addClass() and removeClass() functions.
+
+   We are going to use jQuery and jQuery UI.  jQuery UI (User Interface) is free and open-source software that is built on top of the core powerful jQuery library.
+  If you want to use jQuery UI, you must include jQuery too.  
+  jQuery UI provides more features like add Class, color animation and easing, etc.
+
+   We are going to use some jQuery UI addClass() and removeClass() methods.
+ 
+
+addClass() method:
+         It is used to add specified classes to each of the targeted elements while animating all style changes.
+
+Syntax:
+
+       addClass(className, [duration], [easing], [callback])
+
+
+
+removeClass() method: 
+       It is used to remove the classes from the element while animating all style changes.
+
+Syntax:
+
+       removeClass(className, [duration], [easing], [callback])

@@ -1,0 +1,13 @@
+1) WHAT IS JQUERY ?
+
+
+ 
+  jQuery is a small, light-weight and fast JavaScript library.
+  It is cross-platform and supports different types of browsers. 
+  It is also referred as ?write less do more? because it takes a lot of common tasks that requires many lines of JavaScript code to accomplish, and binds them into methods that can be called with a single line of code whenever needed.
+  It is also very useful to simplify a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.
+
+          1) jQuery is a small, fast and lightweight JavaScript library.
+          2) jQuery is platform-independent.
+          3) jQuery means "write less do more".
+          4) jQuery simplifies AJAX call and DOM manipulation.
